@@ -45,8 +45,6 @@
        <td style="padding:8px;">🐶</td>
     </tr>
 
-
-     <table>
   <thead>
     <tr>
       <th style="background-color:#f2f2f2; padding:8px;"></th>
@@ -102,8 +100,6 @@
        <td style="padding:8px;">🐧</td>
     </tr>
 
-
-    <table>
   <thead>
     <tr>
       <th style="background-color:#f2f2f2; padding:8px;"></th>
