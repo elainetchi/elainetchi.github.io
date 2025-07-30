@@ -5,6 +5,7 @@
       <th style="background-color:#f2f2f2; padding:8px;"></th>
       <th style="background-color:#f2f2f2; padding:8px;">Other Shells</th>
       <th style="background-color:#f2f2f2; padding:8px;">Image</th>
+       <th style="background-color:#f2f2f2; padding:8px;">Rarity</th>
        <th style="background-color:#f2f2f2; padding:8px;">Type</th>
     </tr>
   </thead>
@@ -18,6 +19,7 @@
       <img src="images/pixel_mypet02.png" alt="Black & White" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">🖼️</td>
+      <td style="padding:8px;">💎</td>
        <td style="padding:8px;">🐶</td>
     </tr>
     <tr>
@@ -27,6 +29,7 @@
       <td style="padding:8px;">The Puppy<br>Release: 🇯🇵 1997?<br>Giga Pets Digital Doggie programming.</td>
        <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">🖼️</td>
+      <td style="padding:8px;">💎</td>
        <td style="padding:8px;">🐶</td>
     </tr>
         <tr>
@@ -36,5 +39,6 @@
       <td style="padding:8px;">Lovely Puppy<br>Release: 🇯🇵 1997?<br>Giga Pets Digital Doggie programming.</td>
       <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">🖼️</td>
+      <td style="padding:8px;">💎</td>
        <td style="padding:8px;">🐶</td>
     </tr>
