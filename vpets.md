@@ -91,6 +91,10 @@
       <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">💎</td>
        <td style="padding:8px;">🐧</td>
+       <tr>
+                     <td style="padding:8px;">
+        <img src="images/pixel_mypet01.png" alt="Dalmation" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
+      </td>
                 <td style="padding:8px;">Yuki Penguin<br>Release: 🇯🇵 ?<br>Programming: Similar to Rakuraku Dinokun<br></td>
       <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">🖼️</td>
