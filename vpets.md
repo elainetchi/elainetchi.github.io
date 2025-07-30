@@ -87,7 +87,7 @@
       <td style="padding:8px;">Pingu & Pinga Chiisana Tomodachi ちいさなともだち<br>Release: 🇯🇵 ?<br>Programming: Original<br>Company: Flex<br>The name came be translated to "Little Friend" and the box states this is a "Communication Game". The shell is a flip open type.</td>
       <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">🖼️</td>
-      <td style="padding:8px;">💎</td>
+      <td style="padding:8px;">💎💎</td>
        <td style="padding:8px;">🐧</td>
        <tr>
                      <td style="padding:8px;">
@@ -113,7 +113,7 @@
   <tbody>
     <tr>
       <td style="padding:8px;">
-        <img src="images/pixel_mypet01.png" alt="Dalmation" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
+        <img src="images/.png" alt="Dalmation" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">Nanja Monja<br>Release: 🇯🇵 <br>
         Programming: Original<br>
@@ -122,8 +122,8 @@
       <img src="images/pixel_mypet02.png" alt="Black & White" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">🖼️</td>
-      <td style="padding:8px;">💎</td>
-       <td style="padding:8px;">🐶</td>
+      <td style="padding:8px;">💎💎💎</td>
+       <td style="padding:8px;">👾</td>
     </tr>
     <tr>
       <td style="padding:8px;">
